@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alpower.micro.blog/2023/05/17/write-up-a.html",
+				
+				"content_html": "<p>Write up a little piece on <a href=\"https://www.alpower.com/blog/design-and-the-rise-of-ai-a-perspective/\">A.I. on my blog from the perspective of a designer</a> 🤖</p>\n",
+				"content_text": "Write up a little piece on [A.I. on my blog from the perspective of a designer](https://www.alpower.com/blog/design-and-the-rise-of-ai-a-perspective/) 🤖\n",
+				"date_published": "2023-05-17T12:28:22+01:00",
+				"url": "https://microblog.alpower.com/2023/05/17/write-up-a.html"
+			},
+			{
 				"id": "http://alpower.micro.blog/2023/03/12/was-looking-for.html",
 				
 				"content_html": "<p>Was looking for a binge-worthy tv show and enjoying the older 📺 <a href=\"https://www.themoviedb.org/tv/46952\">The Blacklist (2013)</a></p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/htJzeRcYI2ewMm4PTrg98UMXShe.jpg\" alt=\"The Blacklist poster\"></p>\n",
