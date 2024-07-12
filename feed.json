@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alpower.micro.blog/2024/07/04/voted.html",
+				
+				"content_html": "<p>Voted.</p>\n",
+				"content_text": "Voted.\n",
+				"date_published": "2024-07-04T09:48:33+01:00",
+				"url": "https://microblog.alpower.com/2024/07/04/voted.html"
+			},
+			{
 				"id": "http://alpower.micro.blog/2024/06/09/lovely-day-wandering.html",
 				
 				"content_html": "<p>Lovely day wandering around Eastbourne discovering nice food and coffee. This was a sweet potato and chorizo hash from Urban Ground. Also had great coffee at Nelsons.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://alpower.micro.blog/2024/06/05/street-cats-of.html",
 				
 				"content_html": "<p>Street cats of Istanbul</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Street cats of Istanbul\n\n<img src=\"uploads/2024/a76f84fa53724d7e9307079af194cc02.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/da32fc4354274542954b6d92370223f5.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/3f165be1cf864634880a69a223e2017d.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/2571e3dfa1324b81bcdffd311d2d34e6.jpg\" width=\"435\" height=\"600\" alt=\"\"><img src=\"uploads/2024/2304c945a9bb44389fb44a4a2b437dad.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/c06bf4a15a7b40f7945b0ba3c4f0e898.jpg\" width=\"600\" height=\"420\" alt=\"\"><img src=\"uploads/2024/ef0cfd4b1e2142159c09295407d66950.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/b695a3d539674c7a81de1a77a3e5df3a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Street cats of Istanbul\n\n<img src=\"https://cdn.uploads.micro.blog/67217/2024/a76f84fa53724d7e9307079af194cc02.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/da32fc4354274542954b6d92370223f5.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/3f165be1cf864634880a69a223e2017d.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/2571e3dfa1324b81bcdffd311d2d34e6.jpg\" width=\"435\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/2304c945a9bb44389fb44a4a2b437dad.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/c06bf4a15a7b40f7945b0ba3c4f0e898.jpg\" width=\"600\" height=\"420\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/ef0cfd4b1e2142159c09295407d66950.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67217/2024/b695a3d539674c7a81de1a77a3e5df3a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-06-05T21:45:03+01:00",
 				"url": "https://microblog.alpower.com/2024/06/05/street-cats-of.html"
 			},
